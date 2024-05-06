@@ -1,4 +1,4 @@
-Olá, bem vindos ao meu perfil ;)
+**Olá, bem vindos ao meu perfil ;)**
     
     Me chama Larissa Bispo!!
     
@@ -6,5 +6,5 @@ Olá, bem vindos ao meu perfil ;)
     - Estou me desenvolvendo na linguagem JavaScript
     - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Você pode entrar em contato comigo, caso queira!
+**Você pode entrar em contato comigo, caso queira!**
     - Larybispo27@gmail.com
